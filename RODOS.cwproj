@@ -1,0 +1,27 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>hei_id2_21_g_long_0.ymap</Item>
+    <Item>hei_id2_21_g_strm_0.ymap</Item>
+    <Item>hei_id2_occl_03.ymap</Item>
+    <Item>hei_id2_rdb_long_0.ymap</Item>
+    <Item>hei_id2_rdb_strm_2.ymap</Item>
+    <Item>hei_id2_rdb.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames />
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames>
+    <Item>id2_21_g_woodframes.ydr</Item>
+    <Item>id2_21_g_woodframesb.ydr</Item>
+    <Item>id2_21_g_woodframesc.ydr</Item>
+  </YdrFilenames>
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames />
+</CodeWalkerProject>
